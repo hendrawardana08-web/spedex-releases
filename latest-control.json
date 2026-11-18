@@ -1,0 +1,21 @@
+{
+  "appId": "id.spedex.control-center",
+  "asset": {
+    "filename": "SPeDeX-ControlCenter-Setup-2.2.0.exe",
+    "sha512": "eb8c50ab90620ff8dda3259f74e61804f2040e3f15f2689895b39fbff9531174cafa664cb2a9e79bfce0fbb35f1b7167bfb9396c0bffa5a685cc4f0c196cae2c",
+    "size": 122832287,
+    "url": "https://github.com/hendrawardana08-web/spedex-releases/releases/download/control-latest/SPeDeX-ControlCenter-Setup-2.2.0.exe"
+  },
+  "channel": "control-center",
+  "format": "spedex-release-manifest-v1",
+  "issuedAt": "2026-11-18T06:18:22.249Z",
+  "keyId": "e5a2a20d",
+  "notes": [
+    "Rilis resmi SPeDeX Control Center v2.2.0 dengan menu Maintenance terpisah untuk pengelolaan dan pembaruan aplikasi."
+  ],
+  "packageType": "installer",
+  "productName": "SPeDeX Control Center",
+  "releaseDate": "2026-11-18",
+  "version": "2.2.0",
+  "signature": "1i1vc1jRcCugf9AW4VOn7d4TXAvaJ8p0KUo5BoQsHk4diSSxAUAIBtXmdJYowgH2Varp9PQq736pDAXH00hhBw"
+}
